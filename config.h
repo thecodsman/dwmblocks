@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	{"", "cat /tmp/recordingicon 2>/dev/null", 0,     9},
 	{"", "sb-tasks",                           10,    26},
 	{"", "sb-music",                           0,     11},
-	{"", "sb-bluetooth",                       0,     13},
+	{"", "sb-devices",                       5,     13},
     {"", "sb-volume",                          0,     10},
 	{"", "sb-news",                            0,     6},
 	{"", "sb-torrent",                         20,    7},
